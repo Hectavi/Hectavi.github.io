@@ -1,9 +1,17 @@
+h2,
+caption {
+  text-align: center;
+  color: white;
+  margin: 1%;
+  padding: 1%;
+}
+
 td {
   vertical-align: middle;
 }
 
 .dwec {
-  background-color: #74530B !important;
+  background-color: #74530b !important;
 }
 
 .dwes {
@@ -28,8 +36,4 @@ td {
 
 .tut {
   background-color: darkviolet !important;
-}
-
-.recess {
-  background-color: #005F61 !important;
 }
